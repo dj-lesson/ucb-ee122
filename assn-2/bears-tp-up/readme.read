@@ -1,0 +1,3 @@
+add test case:
+1. the acks' checksum are incorrect.
+2. the send packets' checksum are incorrect.
